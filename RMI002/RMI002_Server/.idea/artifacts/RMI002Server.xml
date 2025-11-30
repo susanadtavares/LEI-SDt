@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMI002Server">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMI002Server</output-path>
+    <root id="archive" name="RMI002Server.jar">
+      <element id="module-output" name="RMI002_Server" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI002Registry/out/production/RMI002_Registry/ObjectRegistry.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI002Registry/out/production/RMI002_Registry/RMIRegistry.class" />
+    </root>
+  </artifact>
+</component>

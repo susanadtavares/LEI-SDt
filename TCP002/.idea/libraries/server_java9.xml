@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server-java9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/src/server-java8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

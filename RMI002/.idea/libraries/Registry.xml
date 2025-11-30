@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Registry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RMI002_Registry/out/artifacts/Registry/Registry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

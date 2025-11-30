@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Registry">
+    <output-path>$PROJECT_DIR$/out/artifacts/Registry</output-path>
+    <root id="archive" name="Registry.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_ReplicaManager/src/Place.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_ReplicaManager/src/PlacesListInterface.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_ReplicaManager/src/PlacesListManagerInterface.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_ReplicaManager/src/ReplicaManager.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_ReplicaManager/src/RMIReplicaManager.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/../RMI003_Server/src/RMIServer.java" />
+    </root>
+  </artifact>
+</component>

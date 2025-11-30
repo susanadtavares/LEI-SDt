@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servidor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UDP1_server/out/artifacts/servidor_jar/servidor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/003.iml" filepath="$PROJECT_DIR$/.idea/003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI003_Client/RMI003_Client.iml" filepath="$PROJECT_DIR$/RMI003_Client/RMI003_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI003_Registry/RMI003_Registry.iml" filepath="$PROJECT_DIR$/RMI003_Registry/RMI003_Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI003_ReplicaManager/RMI003_ReplicaManager.iml" filepath="$PROJECT_DIR$/RMI003_ReplicaManager/RMI003_ReplicaManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI003_Server/RMI003_Server.iml" filepath="$PROJECT_DIR$/RMI003_Server/RMI003_Server.iml" />
+    </modules>
+  </component>
+</project>
