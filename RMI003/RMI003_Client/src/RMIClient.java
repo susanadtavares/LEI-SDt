@@ -24,7 +24,7 @@ public class RMIClient {
             l  = (PlacesListInterface) Naming.lookup("rmi://localhost:2022/placelist");
             lm = (PlacesListManagerInterface) Naming.lookup("rmi://localhost:2024/replicamanager");
             r = (ObjectRegistryInterface) Naming.lookup("rmi://localhost:2023/registry");
-            Place p = new Place("6270", "Seia");
+            Place p = new Place("3500", "Viseu");
             lm.addPlace(p);
 
             ArrayList<Place> sList = l.allPlaces();
